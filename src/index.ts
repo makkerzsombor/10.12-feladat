@@ -44,5 +44,5 @@ document.addEventListener('DOMContentLoaded', () => {
             console.log('Az 2. jelszó nem megfelelő hosszúságú');
         }
     })
-
+    
 })
