@@ -1,1 +1,1 @@
-(()=>{"use strict";document.addEventListener("DOMContentLoaded",(()=>{}))})();
+(()=>{"use strict";document.addEventListener("DOMContentLoaded",(()=>{var e;null===(e=document.getElementById("regisztracio"))||void 0===e||e.addEventListener("click",(()=>{}))}))})();
