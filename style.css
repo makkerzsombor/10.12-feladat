@@ -761,7 +761,7 @@ input.checkbox:checked:after {
     padding: 1em 0 0;
   }
 }
-.sotetzold{
+p.sotetzold{
   color: darkgreen;
   font-weight: bold;
 }
